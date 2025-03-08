@@ -2,7 +2,7 @@
 
 I am a geospatial / remote sensing scientist working *mostly* on tropical forests. 
 
-I mostly use _R_, _Python_, _GDAL_ and _QGIS_.
+My favourite tools are _R_, _Python_, _GDAL_ and _QGIS_.
 
 <!--
 **h-a-graham/h-a-graham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
