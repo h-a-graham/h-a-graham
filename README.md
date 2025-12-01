@@ -4,6 +4,8 @@ I am a geospatial / remote sensing scientist working *mostly* on tropical forest
 
 My favourite tools are _R_, _Python_, _GDAL_ and _QGIS_.
 
+[![Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-a-graham)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **h-a-graham/h-a-graham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
